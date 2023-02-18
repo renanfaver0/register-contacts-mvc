@@ -1,5 +1,7 @@
 # cadastra-contatos-mvc
-Projeto criado no Bootcamp .NET da DIO, utilizando .ASP NET MVC para o Front End, e o Entity Framework para o Back End. O Banco de dados utilizado foi o SQL Server Express 2019
+Projeto criado no Bootcamp .NET da DIO, utilizando .ASP NET MVC para o Front End, e o Entity Framework para o Back End. O Banco de dados utilizado foi o SQL Server Express 2019.
+
+<h4>Versão do .NET: 7.0</h4>
 
 
 <h4>Pacotes utilizados:</h4> 

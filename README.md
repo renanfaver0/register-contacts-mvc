@@ -1,10 +1,9 @@
-# cadastra-contatos-mvc
-Projeto criado no Bootcamp .NET da DIO, utilizando .ASP NET MVC para o Front End, e o Entity Framework para o Back End. O Banco de dados utilizado foi o SQL Server Express 2019.
+# register-contacts-mvc
 
-<h4>Versão do .NET: 7.0</h4>
+<h4>Language Version: .NET Core 7.0</h4>
 
 
-<h4>Pacotes utilizados:</h4> 
+<h4>Packages used:</h4> 
 
 
 - dotnet add package Microsoft.EntityFrameworkCore.Design
@@ -13,18 +12,18 @@ Projeto criado no Bootcamp .NET da DIO, utilizando .ASP NET MVC para o Front End
 - dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 
 
-<h4>Comando utilizado para criar as migrations do banco de dados:</h4>
+<h4>Migrations commands:</h4>
 
 - dotnet-ef migrations add AdicionaTabelaContato
 
 
-<h4>Comando utilizado para verificar a conexão do banco de dados:</h4>
+<h4>Command for verification the Database</h4>
 
 
 - dotnet-ef database update
 
 
-<h4>Comando utlizado para iniciar a api:</h4>
+<h4>Command for initialing program:</h4>
 
 
 - dotnet watch run
